@@ -1,0 +1,21 @@
+{
+  "token": "",
+  "ownerId": "754623767459659796",
+  "prefix": "!",
+  "automod": {
+    "badWords": [
+      "fuck",
+      "nigga"
+    ],
+    "maxCapsPercent": 80,
+    "minCapsLength": 8,
+    "maxMentions": 5
+  },
+  "antinuke": {
+    "banThreshold": 3,
+    "kickThreshold": 3,
+    "channelDeleteThreshold": 3,
+    "roleDeleteThreshold": 3,
+    "window": 10
+  }
+}
